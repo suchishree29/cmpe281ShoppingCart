@@ -12,5 +12,14 @@ Implemented a 3 tier microservices architecture. Every microservice has a databa
 ## Class Diagram:
 ![alt tag](https://github.com/suchishree29/cmpe281ShoppingCart/blob/master/ClassDiagram.png)
 
+## HomePage: 
+![alt tag](https://github.com/suchishree29/cmpe281ShoppingCart/blob/master/Homepage.PNG)
+
+## Sign In Page:
+![alt tag](https://github.com/suchishree29/cmpe281ShoppingCart/blob/master/SignInPage.PNG)
+
+## Register Page:
+![alt tag](https://github.com/suchishree29/cmpe281ShoppingCart/blob/master/SignupPage.PNG)
+
 
 
