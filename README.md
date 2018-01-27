@@ -2,7 +2,7 @@
 Batman Collection Application : A cloud scale multi-user shopping cart Service on Amazon Cloud 
 
 ## Project Walk Through Video
-![alt tag](https://drive.google.com/open?id=1kEel7a9Z4pE7bhfU5OIzpnXl_1-qqG2V)
+![a link](https://drive.google.com/open?id=1kEel7a9Z4pE7bhfU5OIzpnXl_1-qqG2V)
 
 ## Architecture:
 ![alt tag](https://github.com/suchishree29/cmpe281ShoppingCart/blob/master/Architecture.png)
